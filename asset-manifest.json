@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keeper4/static/css/main.0efe3f54.css",
+    "main.js": "/keeper4/static/js/main.ddbf9c15.js",
+    "static/js/787.0cefdfc3.chunk.js": "/keeper4/static/js/787.0cefdfc3.chunk.js",
+    "index.html": "/keeper4/index.html",
+    "main.0efe3f54.css.map": "/keeper4/static/css/main.0efe3f54.css.map",
+    "main.ddbf9c15.js.map": "/keeper4/static/js/main.ddbf9c15.js.map",
+    "787.0cefdfc3.chunk.js.map": "/keeper4/static/js/787.0cefdfc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0efe3f54.css",
+    "static/js/main.ddbf9c15.js"
+  ]
+}
